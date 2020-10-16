@@ -1,7 +1,7 @@
 var colorLinea = 0;
 
 function setup() {
-  createCanvas(700, 700);
+  createCanvas(windowWidth, windowHeight);
   background(0);
 }
 
