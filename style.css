@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+h1 { color: #00aa00; }
+
+a {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  line-height: 1.8;
+}
+
+.Main {
+  align-self: center;
+  align-content: center;
+}
